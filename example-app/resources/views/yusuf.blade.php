@@ -7,8 +7,8 @@
     <title>Document</title>
     <style>
         h1{
-            color: aqua;
-            background-color: bisque
+            color: antiquewhite;
+            background-color: aqua
         }
     </style>
 </head>
